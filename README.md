@@ -1,5 +1,7 @@
 # Enhanced-Whale-Optimization-Algorithm
-Kaveh, A., &amp; Ghazaan, M. I. (2016). Enhanced whale optimization algorithm for sizing optimization of skeletal structures. Mechanics Based Design of Structures and Machines, 45(3), 345–362. doi:10.1080/15397734.2016.1213639
+A. Kaveh and M. Ghazaan, "Enhanced whale optimization algorithm for sizing optimization of skeletal structures", Mechanics Based Design of Structures and Machines, vol. 45, no. 3, pp. 345-362, 2016.
+
+https://doi.org/10.1080/15397734.2016.1213639
 
 1. 重新優化了測試腳本
 
